@@ -1,0 +1,159 @@
+C:\Users\Acer\AppData\Local\Temporary Projects\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENTS_FORM.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMERS_FORM.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BID_DETAILS.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMER_PAYMENTS_FORM.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENT_PAYMENTS_FORM.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BID_DETAILS.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENTS_FORM.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENT_PAYMENTS_FORM.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMERS_FORM.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.Resources.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMER_PAYMENTS_FORM.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
+F:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.LOGIN.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BID_DETAILS.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENTS_FORM.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENT_PAYMENTS_FORM.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMERS_FORM.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.LOGIN.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.MENU_FORM.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.Resources.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMER_PAYMENTS_FORM.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.SPLASH_SCREEN.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
+H:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.MENU_FORM.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.SPLASH_SCREEN.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_MENU.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_FORM.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_AUCTIONEER_LOGIN.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_ADMIN_LOGIN.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BASIC_CALCULATOR.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_FORM.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_MENU.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BASIC_CALCULATOR.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BID_DETAILS.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_AUCTIONEER_LOGIN.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_ADMIN_LOGIN.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENTS_FORM.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENT_PAYMENTS_FORM.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMERS_FORM.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.LOGIN.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.MENU_FORM.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.Resources.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMER_PAYMENTS_FORM.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.SPLASH_SCREEN.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
+D:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_FORM.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_MENU.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BASIC_CALCULATOR.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BID_DETAILS.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_AUCTIONEER_LOGIN.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_ADMIN_LOGIN.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENTS_FORM.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENT_PAYMENTS_FORM.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMERS_FORM.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.LOGIN.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.MENU_FORM.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.Resources.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMER_PAYMENTS_FORM.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.SPLASH_SCREEN.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
+G:\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache
+C:\Users\21_chozyn_YaDigg😎😜\Documents\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+C:\Users\21_chozyn_YaDigg😎😜\Documents\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+C:\Users\21_chozyn_YaDigg😎😜\Documents\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+C:\Users\21_chozyn_YaDigg😎😜\Documents\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_FORM.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_MENU.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BASIC_CALCULATOR.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_AUCTIONEER_LOGIN.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_ADMIN_LOGIN.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENTS_FORM.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENT_PAYMENTS_FORM.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMERS_FORM.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.LOGIN.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.MENU_FORM.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.Resources.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMER_PAYMENTS_FORM.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.SPLASH_SCREEN.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHARGES.resources
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbprojResolveAssemblyReference.cache
+C:\Users\21_chozyn_YaDigg😎😜\Documents\xul\comps\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BIDDETAILS.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe.config
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.exe
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.xml
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.pdb
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbprojResolveAssemblyReference.cache
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_FORM.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_MENU.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BASIC_CALCULATOR.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BIDDETAILS.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_AUCTIONEER_LOGIN.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHANGE_ADMIN_LOGIN.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CHARGES.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENTS_FORM.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CLIENT_PAYMENTS_FORM.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMERS_FORM.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.LOGIN.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.MENU_FORM.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.Resources.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.CUSTOMER_PAYMENTS_FORM.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.SPLASH_SCREEN.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache

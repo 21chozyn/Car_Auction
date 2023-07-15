@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+C_M_V_A_SYTEM
+</name>
+</assembly>
+<members>
+<member name="T:C_M_V_A_SYTEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.Abstract_Blue_Beautiful_Design_Background_Vector_Illustration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.AD1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.AD2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.AD3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.AD4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.AD5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.AD6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.BTNCLEAR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.BTNEXIT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.BTNEXIT1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.Capture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.Capture1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.Capture5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.download__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.f719d207aee6e1db9f15cac81c1bd59ca7856ccb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.IMG_32858">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.istockphoto_596773356_612x612">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.istockphoto_596773356_612x6121">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.MarriedMarvelousHawaiianmonkseal_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.pngtree_tire_promotion_season_carnival_black_background_image_186714">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:C_M_V_A_SYTEM.My.Resources.Resources.VIEW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
