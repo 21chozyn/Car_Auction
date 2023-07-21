@@ -156,7 +156,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTMAKE.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTMAKE.Location = New System.Drawing.Point(397, 244)
-        Me.TXTMAKE.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTMAKE.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTMAKE.Name = "TXTMAKE"
         Me.TXTMAKE.Size = New System.Drawing.Size(261, 26)
         Me.TXTMAKE.TabIndex = 14
@@ -165,7 +165,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTMODEL.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTMODEL.Location = New System.Drawing.Point(397, 299)
-        Me.TXTMODEL.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTMODEL.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTMODEL.Name = "TXTMODEL"
         Me.TXTMODEL.Size = New System.Drawing.Size(261, 26)
         Me.TXTMODEL.TabIndex = 17
@@ -174,7 +174,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTVEHCOL.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTVEHCOL.Location = New System.Drawing.Point(397, 357)
-        Me.TXTVEHCOL.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTVEHCOL.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTVEHCOL.Name = "TXTVEHCOL"
         Me.TXTVEHCOL.Size = New System.Drawing.Size(261, 26)
         Me.TXTVEHCOL.TabIndex = 18
@@ -183,7 +183,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTCLIENTNUM.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTCLIENTNUM.Location = New System.Drawing.Point(397, 620)
-        Me.TXTCLIENTNUM.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTCLIENTNUM.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTCLIENTNUM.Name = "TXTCLIENTNUM"
         Me.TXTCLIENTNUM.Size = New System.Drawing.Size(212, 26)
         Me.TXTCLIENTNUM.TabIndex = 23
@@ -192,7 +192,7 @@ Partial Class VEHICLES_FORM
         '
         Me.DateTimePicker1.CalendarFont = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DateTimePicker1.Location = New System.Drawing.Point(399, 681)
-        Me.DateTimePicker1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.DateTimePicker1.Margin = New System.Windows.Forms.Padding(4)
         Me.DateTimePicker1.Name = "DateTimePicker1"
         Me.DateTimePicker1.Size = New System.Drawing.Size(260, 22)
         Me.DateTimePicker1.TabIndex = 35
@@ -212,7 +212,7 @@ Partial Class VEHICLES_FORM
         Me.Panel1.Controls.Add(Me.Button4)
         Me.Panel1.Controls.Add(Me.Button3)
         Me.Panel1.Location = New System.Drawing.Point(-3, 0)
-        Me.Panel1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Panel1.Margin = New System.Windows.Forms.Padding(4)
         Me.Panel1.Name = "Panel1"
         Me.Panel1.Size = New System.Drawing.Size(117, 817)
         Me.Panel1.TabIndex = 39
@@ -223,7 +223,7 @@ Partial Class VEHICLES_FORM
         Me.BTNVALIDATE.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BTNVALIDATE.ForeColor = System.Drawing.Color.White
         Me.BTNVALIDATE.Location = New System.Drawing.Point(4, 428)
-        Me.BTNVALIDATE.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.BTNVALIDATE.Margin = New System.Windows.Forms.Padding(4)
         Me.BTNVALIDATE.Name = "BTNVALIDATE"
         Me.BTNVALIDATE.Size = New System.Drawing.Size(109, 38)
         Me.BTNVALIDATE.TabIndex = 50
@@ -236,7 +236,7 @@ Partial Class VEHICLES_FORM
         Me.Button8.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button8.ForeColor = System.Drawing.Color.White
         Me.Button8.Location = New System.Drawing.Point(73, 0)
-        Me.Button8.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button8.Margin = New System.Windows.Forms.Padding(4)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(44, 28)
         Me.Button8.TabIndex = 49
@@ -276,7 +276,7 @@ Partial Class VEHICLES_FORM
         Me.Button7.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button7.ForeColor = System.Drawing.Color.White
         Me.Button7.Location = New System.Drawing.Point(0, 501)
-        Me.Button7.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button7.Margin = New System.Windows.Forms.Padding(4)
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(109, 38)
         Me.Button7.TabIndex = 48
@@ -289,7 +289,7 @@ Partial Class VEHICLES_FORM
         Me.Button1.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.Color.White
         Me.Button1.Location = New System.Drawing.Point(0, 69)
-        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(51, 28)
         Me.Button1.TabIndex = 42
@@ -302,7 +302,7 @@ Partial Class VEHICLES_FORM
         Me.Button6.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button6.ForeColor = System.Drawing.Color.White
         Me.Button6.Location = New System.Drawing.Point(4, 373)
-        Me.Button6.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button6.Margin = New System.Windows.Forms.Padding(4)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(109, 38)
         Me.Button6.TabIndex = 47
@@ -315,7 +315,7 @@ Partial Class VEHICLES_FORM
         Me.Button2.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.ForeColor = System.Drawing.Color.White
         Me.Button2.Location = New System.Drawing.Point(73, 69)
-        Me.Button2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(44, 28)
         Me.Button2.TabIndex = 43
@@ -328,7 +328,7 @@ Partial Class VEHICLES_FORM
         Me.Button5.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button5.ForeColor = System.Drawing.Color.White
         Me.Button5.Location = New System.Drawing.Point(4, 310)
-        Me.Button5.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button5.Margin = New System.Windows.Forms.Padding(4)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(109, 38)
         Me.Button5.TabIndex = 46
@@ -341,7 +341,7 @@ Partial Class VEHICLES_FORM
         Me.Button4.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button4.ForeColor = System.Drawing.Color.White
         Me.Button4.Location = New System.Drawing.Point(4, 127)
-        Me.Button4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button4.Margin = New System.Windows.Forms.Padding(4)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(109, 68)
         Me.Button4.TabIndex = 45
@@ -354,7 +354,7 @@ Partial Class VEHICLES_FORM
         Me.Button3.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button3.ForeColor = System.Drawing.Color.White
         Me.Button3.Location = New System.Drawing.Point(4, 220)
-        Me.Button3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(4)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(109, 71)
         Me.Button3.TabIndex = 44
@@ -367,7 +367,7 @@ Partial Class VEHICLES_FORM
         Me.BTNTOLOGIN.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BTNTOLOGIN.ForeColor = System.Drawing.Color.White
         Me.BTNTOLOGIN.Location = New System.Drawing.Point(113, 31)
-        Me.BTNTOLOGIN.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.BTNTOLOGIN.Margin = New System.Windows.Forms.Padding(4)
         Me.BTNTOLOGIN.Name = "BTNTOLOGIN"
         Me.BTNTOLOGIN.Size = New System.Drawing.Size(100, 31)
         Me.BTNTOLOGIN.TabIndex = 50
@@ -381,7 +381,7 @@ Partial Class VEHICLES_FORM
         Me.BTNTOMENU.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BTNTOMENU.ForeColor = System.Drawing.Color.White
         Me.BTNTOMENU.Location = New System.Drawing.Point(113, 0)
-        Me.BTNTOMENU.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.BTNTOMENU.Margin = New System.Windows.Forms.Padding(4)
         Me.BTNTOMENU.Name = "BTNTOMENU"
         Me.BTNTOMENU.Size = New System.Drawing.Size(100, 28)
         Me.BTNTOMENU.TabIndex = 51
@@ -406,19 +406,19 @@ Partial Class VEHICLES_FORM
         '
         Me.Label21.AutoSize = True
         Me.Label21.BackColor = System.Drawing.Color.Transparent
-        Me.Label21.Font = New System.Drawing.Font("Algerian", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label21.Font = New System.Drawing.Font("Algerian", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label21.ForeColor = System.Drawing.Color.White
-        Me.Label21.Location = New System.Drawing.Point(327, 118)
+        Me.Label21.Location = New System.Drawing.Point(253, 9)
         Me.Label21.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(211, 30)
+        Me.Label21.Size = New System.Drawing.Size(310, 45)
         Me.Label21.TabIndex = 62
         Me.Label21.Text = "VEHICLES FORM"
         '
         'Label22
         '
         Me.Label22.AutoSize = True
-        Me.Label22.BackColor = System.Drawing.Color.Transparent
+        Me.Label22.BackColor = System.Drawing.Color.Black
         Me.Label22.Font = New System.Drawing.Font("Times New Roman", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label22.ForeColor = System.Drawing.Color.White
         Me.Label22.Location = New System.Drawing.Point(221, 175)
@@ -432,7 +432,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTMILEAGE.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTMILEAGE.Location = New System.Drawing.Point(396, 414)
-        Me.TXTMILEAGE.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTMILEAGE.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTMILEAGE.Name = "TXTMILEAGE"
         Me.TXTMILEAGE.Size = New System.Drawing.Size(261, 26)
         Me.TXTMILEAGE.TabIndex = 67
@@ -470,7 +470,7 @@ Partial Class VEHICLES_FORM
         Me.RadioButton3.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton3.ForeColor = System.Drawing.Color.White
         Me.RadioButton3.Location = New System.Drawing.Point(541, 464)
-        Me.RadioButton3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.RadioButton3.Margin = New System.Windows.Forms.Padding(4)
         Me.RadioButton3.Name = "RadioButton3"
         Me.RadioButton3.Size = New System.Drawing.Size(70, 23)
         Me.RadioButton3.TabIndex = 70
@@ -485,7 +485,7 @@ Partial Class VEHICLES_FORM
         Me.RadioButton4.Font = New System.Drawing.Font("Algerian", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton4.ForeColor = System.Drawing.Color.White
         Me.RadioButton4.Location = New System.Drawing.Point(396, 464)
-        Me.RadioButton4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.RadioButton4.Margin = New System.Windows.Forms.Padding(4)
         Me.RadioButton4.Name = "RadioButton4"
         Me.RadioButton4.Size = New System.Drawing.Size(123, 23)
         Me.RadioButton4.TabIndex = 69
@@ -497,7 +497,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTVEHREG.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTVEHREG.Location = New System.Drawing.Point(396, 512)
-        Me.TXTVEHREG.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTVEHREG.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTVEHREG.Name = "TXTVEHREG"
         Me.TXTVEHREG.Size = New System.Drawing.Size(261, 26)
         Me.TXTVEHREG.TabIndex = 72
@@ -519,7 +519,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTVEHNUM.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTVEHNUM.Location = New System.Drawing.Point(397, 566)
-        Me.TXTVEHNUM.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTVEHNUM.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTVEHNUM.Name = "TXTVEHNUM"
         Me.TXTVEHNUM.Size = New System.Drawing.Size(261, 26)
         Me.TXTVEHNUM.TabIndex = 74
@@ -541,7 +541,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTSTARTBID.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTSTARTBID.Location = New System.Drawing.Point(396, 729)
-        Me.TXTSTARTBID.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTSTARTBID.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTSTARTBID.Name = "TXTSTARTBID"
         Me.TXTSTARTBID.Size = New System.Drawing.Size(261, 26)
         Me.TXTSTARTBID.TabIndex = 78
@@ -564,7 +564,7 @@ Partial Class VEHICLES_FORM
         Me.PictureBox2.BackgroundImage = Global.C_M_V_A_SYTEM.My.Resources.Resources.istockphoto_596773356_612x6121
         Me.PictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.PictureBox2.Location = New System.Drawing.Point(719, 244)
-        Me.PictureBox2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.PictureBox2.Margin = New System.Windows.Forms.Padding(4)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(173, 148)
         Me.PictureBox2.TabIndex = 55
@@ -575,7 +575,7 @@ Partial Class VEHICLES_FORM
         Me.PictureBox1.BackgroundImage = Global.C_M_V_A_SYTEM.My.Resources.Resources.logo_2
         Me.PictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.PictureBox1.Location = New System.Drawing.Point(719, 0)
-        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(4)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(177, 148)
         Me.PictureBox1.TabIndex = 52
@@ -604,7 +604,7 @@ Partial Class VEHICLES_FORM
         '
         Me.TXTBUYNOW.Font = New System.Drawing.Font("Algerian", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TXTBUYNOW.Location = New System.Drawing.Point(396, 770)
-        Me.TXTBUYNOW.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TXTBUYNOW.Margin = New System.Windows.Forms.Padding(4)
         Me.TXTBUYNOW.Name = "TXTBUYNOW"
         Me.TXTBUYNOW.Size = New System.Drawing.Size(261, 26)
         Me.TXTBUYNOW.TabIndex = 80
@@ -612,7 +612,7 @@ Partial Class VEHICLES_FORM
         'DomainUpDown1
         '
         Me.DomainUpDown1.Location = New System.Drawing.Point(396, 186)
-        Me.DomainUpDown1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.DomainUpDown1.Margin = New System.Windows.Forms.Padding(4)
         Me.DomainUpDown1.Name = "DomainUpDown1"
         Me.DomainUpDown1.Size = New System.Drawing.Size(160, 22)
         Me.DomainUpDown1.TabIndex = 81
@@ -659,7 +659,7 @@ Partial Class VEHICLES_FORM
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "VEHICLES_FORM"
         Me.Opacity = 0.01R
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen

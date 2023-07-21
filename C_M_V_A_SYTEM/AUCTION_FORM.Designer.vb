@@ -212,7 +212,7 @@ Partial Class AUCTION_FORM
         '
         Me.PictureBox1.BackgroundImage = Global.C_M_V_A_SYTEM.My.Resources.Resources.logo_2
         Me.PictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.PictureBox1.Location = New System.Drawing.Point(719, 0)
+        Me.PictureBox1.Location = New System.Drawing.Point(720, 0)
         Me.PictureBox1.Margin = New System.Windows.Forms.Padding(4)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(177, 148)
@@ -482,7 +482,7 @@ Partial Class AUCTION_FORM
         Me.Label22.Location = New System.Drawing.Point(103, 10)
         Me.Label22.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(101, 16)
+        Me.Label22.Size = New System.Drawing.Size(100, 16)
         Me.Label22.TabIndex = 121
         Me.Label22.Text = "VEHICLE INFO"
         '
@@ -618,7 +618,7 @@ Partial Class AUCTION_FORM
         Me.Label17.Location = New System.Drawing.Point(763, 400)
         Me.Label17.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(92, 16)
+        Me.Label17.Size = New System.Drawing.Size(91, 16)
         Me.Label17.TabIndex = 120
         Me.Label17.Text = "PICTURE I.D."
         '

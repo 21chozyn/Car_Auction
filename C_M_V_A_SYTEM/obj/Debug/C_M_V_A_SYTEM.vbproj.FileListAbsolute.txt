@@ -139,7 +139,6 @@ C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYT
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.exe
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.pdb
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\C_M_V_A_SYTEM.xml
-C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbprojResolveAssemblyReference.cache
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_FORM.resources
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.AUCTION_MENU.resources
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.BASIC_CALCULATOR.resources
@@ -157,3 +156,8 @@ C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYT
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.SPLASH_SCREEN.resources
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.VEHICLES_FORM.resources
 C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.GenerateResource.Cache
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.AssemblyReference.cache
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.CoreCompileInputs.cache
+C:\Users\nash\Documents\My Own\C_M_V_A_SYTEM\C_M_V_A_SYTEM\obj\Debug\C_M_V_A_SYTEM.vbproj.CopyComplete
